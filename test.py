@@ -3,3 +3,4 @@ def print_word(*arg):
     
     
 print_word('hehe')
+print_word('haha')
